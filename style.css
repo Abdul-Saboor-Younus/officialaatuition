@@ -1,0 +1,69 @@
+.socio{
+    width: 30px;
+    height: 20px;
+    margin: 2px;
+}
+.sociorow{
+    background: linear-gradient(royalblue, gainsboro);
+}
+.mainlogo{
+    width: 100px;
+    height: 80px;
+}
+iframe{
+    width: 100%;
+}
+.anchor{
+   margin-left: 20px;
+   text-shadow: 3px 3px 3px black;
+   background-color: burlywood;
+   border-radius: 3px;
+}
+.anchor:hover{
+    margin: 5px;
+    background-color: rgb(161, 119, 4);
+}
+.favicon{
+    width: 80px;
+    height: 60px;
+    
+}
+.ninth{
+    background: linear-gradient(cornflowerblue,deepskyblue);
+    border-radius: 20px;
+    text-align: center;
+    /* margin: 5px; */
+}
+.tenth{
+    background: linear-gradient(mediumpurple,darkorchid);
+    border-radius: 20px;
+    text-align: center;
+    /* margin: 5px; */
+
+}
+.eleventh{
+    background: linear-gradient(lightblue, darkturquoise);
+    border-radius: 20px;
+    text-align: center;
+    /* margin: 5px; */
+}
+.twelveth{
+    background: linear-gradient(pink,palevioletred);
+    border-radius: 20px;
+    text-align: center;
+
+}
+.web{
+    background: linear-gradient(aqua,aquamarine);
+    border-radius: 20px;
+    text-align: center;
+}
+.gfx{
+    background: linear-gradient(darkmagenta,mediumorchid);
+    border-radius: 20px;
+    text-align: center;
+}
+.title{
+    text-decoration:underline double;
+    font-style: italic;
+}
